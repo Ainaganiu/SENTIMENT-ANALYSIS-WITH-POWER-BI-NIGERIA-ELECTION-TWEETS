@@ -1,4 +1,4 @@
-# SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-
+# SENTIMENT ANALYSIS WITH POWER-BI NIGERIA ELECTION-TWEETS
 This undertaking, named "Sentiment Analysis of the 2023 Nigeria Presidential Election Tweets," delved into data analytics to assess public sentiment towards the candidates post-election. By harnessing Twitter data, the project meticulously tracked and evaluated sentiments related to the three main presidential contenders. The resulting report offers a comprehensive insight into post-election public perceptions, contributing valuable analytical perspectives for understanding the dynamics of the electoral process.
 
 ## About the Dataset
