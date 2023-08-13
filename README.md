@@ -25,5 +25,12 @@ The dataset extracted from Kaggle comprises the following key columns, each cont
 14. **Retweets**: Number of times the tweet has been retweeted.
 15. **Is Retweet**: A binary indicator of whether the tweet is a retweet or an original post.
 
-These data columns collectively provide a rich and structured foundation for conducting a comprehensive sentiment analysis of the Nigeria Presidential Election tweets, enabling valuable insights into public perceptions and reactions.
+This dataset, stored in CSV format, forms the foundation for conducting a comprehensive sentiment analysis of the Nigeria Presidential Election tweets. By leveraging these data columns, valuable insights into public perceptions and reactions can be extracted, contributing to a deeper understanding of the electoral landscape.
+
+## DATA CLEANING
+### The Power Query Transformation Process:
+
+The transformation process commenced within Power Query Editor, a robust tool within Microsoft Power BI. This environment provided an avenue to meticulously refine the dataset and mold it into a coherent structure for sentiment analysis. The following key steps were undertaken:
+**Data Source**
+[Data Source](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/SOURCE.png)
 
