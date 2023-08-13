@@ -81,6 +81,7 @@ The sentiment analysis of key phrases within Nigerian election-related tweets yi
 Further delving into the key phrases, the term "INEC" emerged as a noteworthy contributor, constituting 1.20% of the overall Sum of Score sentiment. This highlights the significance of this term in shaping sentiments within the discourse.
 
 Additionally, when evaluating average Sum of Score sentiment, Positive sentiments exhibited the highest average at 1.40, followed by Neutral at 0.81, and Negative at 0.13. This nuanced analysis provides a comprehensive understanding of sentiment dynamics surrounding key phrases related to the Nigerian election, revealing the prevailing tones and emphasizing the impact of specific terms on sentiment expression.
+
 **Word Cloud**
 ![Word Cloud](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS/blob/main/Picture/word_cloud.png)
 
