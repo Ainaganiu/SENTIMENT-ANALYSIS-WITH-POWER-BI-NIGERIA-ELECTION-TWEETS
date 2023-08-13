@@ -3,7 +3,8 @@ This undertaking, named "Sentiment Analysis of the 2023 Nigeria Presidential Ele
 
 ## About the Dataset
 
-The dataset utilized in this analysis was sourced from Kaggle, a prominent platform for data science and analytics resources. This dataset served as the foundation for conducting comprehensive sentiment analysis on the 2023 Nigeria Presidential Election Tweets, facilitating an in-depth exploration of public sentiment towards the candidates and their electoral journey [Dataset Link](https://www.kaggle.com/datasets/gpreda/nigerian-presidential-election-2023-tweets).
+The dataset utilized in this analysis was sourced from Kaggle, a prominent platform for data science and analytics resources. This dataset served as the foundation for conducting comprehensive sentiment analysis on the 2023 Nigeria Presidential Election Tweets, facilitating an in-depth exploration of public sentiment towards the candidates and their electoral journey.
+[Dataset Link](https://www.kaggle.com/datasets/gpreda/nigerian-presidential-election-2023-tweets)
 
 ### Data Columns for Sentiment Analysis of 2023 Nigeria Presidential Election Tweets
 
@@ -32,9 +33,11 @@ This dataset, stored in CSV format, forms the foundation for conducting a compre
 
 The transformation process commenced within Power Query Editor, a robust tool within Microsoft Power BI. This environment provided an avenue to meticulously refine the dataset and mold it into a coherent structure for sentiment analysis. The following key steps were undertaken:   
 **Data Source**
+
 ![Data Source](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/SOURCE.png)
 **Promoting Headers**   
  A key step in the data cleaning process was the utilization of Power Query's built-in functionality to promote headers. By analyzing the first row of data, the Power Query Editor accurately identified column names, ensuring precision in subsequent transformations.
+ 
  ![Promoting Headers](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/SOURCE.png)
  In the course of dataset refinement, certain columns including "Date," "Content," "Location," and "Platform" were deliberately excluded from the dataset. This curation was undertaken to streamline the focus of the analysis and optimize the dataset for sentiment assessment and subsequent insights extraction.
 
@@ -45,6 +48,9 @@ The transformation process commenced within Power Query Editor, a robust tool wi
  After calculating the sentiment scores using the Text Analytics tool, we organized the scores into clear categories using a conditional column. Sentiment scores above 0.5 were labeled as 'Positive', scores of 0.5 were marked as 'Neutral', and scores below 0.5 were categorized as 'Negative'. This straightforward approach added meaningful labels to the sentiment data, making it easier to grasp the emotional context behind each entry.
 ![conditional_column](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/conditional_sentiments.png)
 ![sentiment Column](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/sentiment_column_table.png)
+**Key Phrase Extraction**   
+AI capabilities were utilized to extract key phrases from the text column, unveiling significant phrases within the tweets.
 
-
+![step 1](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/extract_key_phrase_step.png)
+![Step 2](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/extract_key_phrase.png)
 
