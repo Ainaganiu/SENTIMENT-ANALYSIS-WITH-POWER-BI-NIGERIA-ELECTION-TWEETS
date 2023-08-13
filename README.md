@@ -56,6 +56,13 @@ AI capabilities were utilized to extract key phrases from the text column, unvei
 ![Step 2](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/extract_key_phrase.png)
 
 ## Data Analysis and Visualization
-Upon analyzing the tweet data, it was uncovered that the dataframe contained a total of 48239 tweets. In terms of sentiment distribution, Negative emerged as the most prevalent, with a count of 17,622, closely trailed by Neutral with 16,686, and Positive with 13,935. Impressively, Negative sentiments accounted for 36.53% of the overall sentiment count.
 ![sentiment reach](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/sentiment_by_reach.png)
+Upon analyzing the tweet data, it was uncovered that the dataframe contained a total of 48239 tweets. In terms of sentiment distribution, Negative emerged as the most prevalent, with a count of 17,622, closely trailed by Neutral with 16,686, and Positive with 13,935. Impressively, Negative sentiments accounted for 36.53% of the overall sentiment count.
 
+**Sentiment Score Trend**   
+![Score Trend](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS/blob/main/Picture/sent_score_trend.png)
+The trend of the Sum of Score sentiment exhibited a clear downward trajectory, resulting in a substantial decline of 99.89% between Sunday, February 26, 2023, and Wednesday, March 15, 2023.
+
+This downward trend in the Sum of Score sentiment commenced on Thursday, March 2, 2023, registering a remarkable drop of 99.77% (equivalent to 1,088.15 points) within a span of 13 days.
+
+Moreover, a notable reduction in the Sum of Score sentiment was evident, plummeting from 2,288.49 to 1,985.34 during its most significant downturn between Sunday, February 26, 2023, and Wednesday, March 1, 2023.
