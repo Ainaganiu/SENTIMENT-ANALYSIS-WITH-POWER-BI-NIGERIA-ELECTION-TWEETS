@@ -57,12 +57,15 @@ AI capabilities were utilized to extract key phrases from the text column, unvei
 
 ## Data Analysis and Visualization
 ![sentiment reach](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/sentiment_by_reach.png)
-Upon analyzing the tweet data, it was uncovered that the dataframe contained a total of 48239 tweets. In terms of sentiment distribution, Negative emerged as the most prevalent, with a count of 17,622, closely trailed by Neutral with 16,686, and Positive with 13,935. Impressively, Negative sentiments accounted for 36.53% of the overall sentiment count.
+This report presents a thorough sentiment analysis of tweets originating from Nigerian users on the subject of the election. Upon meticulous examination, the dataset encompassed a total of 48,239 tweets. Delving into the sentiment distribution, it was revealed that Negative sentiments prevailed, constituting the highest count at 17,622. Following closely, Neutral sentiments accounted for 16,686, while Positive sentiments were recorded at 13,935.
+
+The prominence of Negative sentiments, standing at 36.53% of the total sentiment count, bears particular significance. This insight offers valuable perspective into the prevailing sentiments expressed by Nigerian Twitter users concerning the election. This analysis not only sheds light on the emotional tones shaping the discourse but also provides a deeper understanding of the diverse viewpoints prevalent within the Twitter landscape surrounding this significant event. Such insights stand to enrich the comprehension of the public sentiment dynamics pertinent to the Nigerian election on the Twitter platform.
 
 **Sentiment Score Trend**   
 ![Score Trend](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS/blob/main/Picture/sent_score_trend.png)
-The trend of the Sum of Score sentiment exhibited a clear downward trajectory, resulting in a substantial decline of 99.89% between Sunday, February 26, 2023, and Wednesday, March 15, 2023.
 
-This downward trend in the Sum of Score sentiment commenced on Thursday, March 2, 2023, registering a remarkable drop of 99.77% (equivalent to 1,088.15 points) within a span of 13 days.
+In the realm of tweets discussing the Nigerian election, the sentiment analysis reveals interesting insights. Among these tweets, those with a Positive sentiment score, indicating optimism or approval, stood out with the highest Sum of Score sentiment at 12,605.89. This was remarkably higher, by 812.87%, compared to tweets carrying a Negative sentiment, which registered the lowest Sum of Score sentiment at 1,380.90.
 
-Moreover, a notable reduction in the Sum of Score sentiment was evident, plummeting from 2,288.49 to 1,985.34 during its most significant downturn between Sunday, February 26, 2023, and Wednesday, March 1, 2023.
+To put it simply, Positive tweets held the strongest sway, making up 56.45% of the overall sentiment analysis. This suggests that a significant portion of the tweeted opinions about the Nigerian election carried a positive tone, reflecting favorable views or hopeful perspectives. In contrast, tweets with Negative sentiment were fewer in number, hinting at a lower level of critical or unfavorable sentiments.
+
+It's worth noting that Neutral tweets, with a Sum of Score sentiment at 8,343, presented a balanced stance, neither overly positive nor negative. This analysis provides a window into how people expressed their feelings and opinions about the Nigerian election on social media, with Positive sentiments leading the discourse.
