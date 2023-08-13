@@ -52,6 +52,7 @@ The transformation process commenced within Power Query Editor, a robust tool wi
 AI capabilities were utilized to extract key phrases from the text column, unveiling significant phrases within the tweets.
 
 ![step 1](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/extract_key_phrase_step.png)
+
 ![Step 2](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/extract_key_phrase.png)
 
 ## Data Analysis and Visualization
