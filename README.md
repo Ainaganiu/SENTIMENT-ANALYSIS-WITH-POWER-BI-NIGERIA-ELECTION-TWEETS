@@ -54,3 +54,7 @@ AI capabilities were utilized to extract key phrases from the text column, unvei
 ![step 1](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/extract_key_phrase_step.png)
 ![Step 2](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/extract_key_phrase.png)
 
+## Data Analysis and Visualization
+Upon analyzing the tweet data, it was uncovered that the dataframe contained a total of 48239 tweets. In terms of sentiment distribution, Negative emerged as the most prevalent, with a count of 17,622, closely trailed by Neutral with 16,686, and Positive with 13,935. Impressively, Negative sentiments accounted for 36.53% of the overall sentiment count.
+![sentiment reach](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/sentiment_by_reach.png)
+
