@@ -42,4 +42,9 @@ The transformation process commenced within Power Query Editor, a robust tool wi
  The dataset underwent a meticulous cleansing process through the utilization of the built-in "Clean" function applied to the  "Custom column", rendering the data primed for analysis. Subsequent to this preparation, the Text Analytics function from Azure Cognitive Service was harnessed to generate sentiment scores for each entry within the customized "Text" column. This approach facilitated the quantification of sentiment nuances, culminating in a comprehensive evaluation of the dataset's emotional undercurrents.
  ![Sentiment Score](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/score_sentiment.png)
 
+ After calculating the sentiment scores using the Text Analytics tool, we organized the scores into clear categories using a conditional column. Sentiment scores above 0.5 were labeled as 'Positive', scores of 0.5 were marked as 'Neutral', and scores below 0.5 were categorized as 'Negative'. This straightforward approach added meaningful labels to the sentiment data, making it easier to grasp the emotional context behind each entry.
+![conditional_column](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/conditional_sentiments.png)
+![sentiment Column](https://github.com/Ainaganiu/SENTIMENT-ANALYSIS-WITH-POWER-BI-NIGERIA-ELECTION-TWEETS-/blob/main/Picture/conditional_sentiments.png)
+
+
 
