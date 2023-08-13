@@ -102,6 +102,6 @@ In conclusion, the sentiment analysis of Nigerian election-related tweets has yi
 
 [Report Link](https://app.powerbi.com/view?r=eyJrIjoiMzMyMjYyNzEtYzQzZC00YjdjLTkyNTgtMDJlYzEyNjYyNGJmIiwidCI6IjUzNjJiMjkyLTI2ZGEtNGE2Yi05OWQ3LWM5ZjJiZWRiOWE2YyIsImMiOjh9&embedImagePlaceholder=true)
 
-<iframe title="nigerian_election" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzMyMjYyNzEtYzQzZC00YjdjLTkyNTgtMDJlYzEyNjYyNGJmIiwidCI6IjUzNjJiMjkyLTI2ZGEtNGE2Yi05OWQ3LWM5ZjJiZWRiOWE2YyIsImMiOjh9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+
 
 
